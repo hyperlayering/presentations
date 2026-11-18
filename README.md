@@ -1,7 +1,11 @@
 # About
 This repository hosts slides, videos, and notes published by the SVGMap community.
 
+<<<<<<< HEAD
 GitHubPages : https://hyperlayering.github.io/presentations/
+=======
+GitHubPages : [https://hyperlayering.github.io/presentations/](https://hyperlayering.github.io/presentations/)
+>>>>>>> origin/main
 
 * [W3C breakouts-day-2026](breakouts-day-2026-W3C/)
 
